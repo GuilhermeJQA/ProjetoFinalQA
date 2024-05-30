@@ -14,7 +14,7 @@ And("eu insiro a pesquisa {string}", (valor) => {
 
 And("confirmo buscar", () => {
     cy.get('button.btn.btn-link.text-decoration-none[aria-label="Buscar"]').first().click({ force: true });
-    cy.wait(1000);
+    cy.wait(3000);
 });
 
 Then("exibe a {string} de erro", (mensagem) => {
