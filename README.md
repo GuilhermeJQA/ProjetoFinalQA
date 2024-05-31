@@ -1,5 +1,9 @@
 # Projeto BDD: Cypress + Cucumber + Gherkin
 
-Disciplina de QA
+Projeto das disciplinas de QA e Projeto Integrador,
+Criando uma automação de testes para sites governamentais.
 
-Grupo: Guilherme José Queiroz, Marcelo Medeiros, Jorge de Melo, Maria Alice, Polyara Virgínia
+
+# Link do vídeo de apresentação: https://youtu.be/lCt-qCdc_Rw?feature=shared
+
+# Grupo: Guilherme José Queiroz de Almeida, Jorge de Melo Ribeiro, Marcelo de Medeiros Silva, Polyara Virginia Soares Lima, Maria Alice Albuquerque da Silva.
