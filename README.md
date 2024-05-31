@@ -1,7 +1,7 @@
 # Projeto BDD: Cypress + Cucumber + Gherkin
 
-Projeto das disciplinas de QA e Projeto Integrador,
-Criando uma automação de testes para sites governamentais.
+#Projeto das disciplinas de QA e Projeto Integrador,
+#Criando uma automação de testes para sites governamentais.
 
 
 # Link do vídeo de apresentação: https://youtu.be/lCt-qCdc_Rw?feature=shared
